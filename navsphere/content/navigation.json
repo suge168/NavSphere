@@ -16,7 +16,16 @@
           "enabled": true
         }
       ],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "bf7da828-7a86-4697-9f5a-27e7fc68f244",
+          "title": "菜鸟",
+          "icon": "LayoutList",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     }
   ]
 }
