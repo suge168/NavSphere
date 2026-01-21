@@ -6,16 +6,7 @@
       "icon": "Home",
       "description": "",
       "enabled": true,
-      "items": [
-        {
-          "id": "1769005117084",
-          "title": "菜鸟驿站首页",
-          "href": "https://cainiaoyizhan.cainiao.com/",
-          "description": "菜鸟驿站首页",
-          "icon": "https://img.alicdn.com/tfs/TB1uUY1eMoQMeJjy0FoXXcShVXa-64-64.png",
-          "enabled": true
-        }
-      ],
+      "items": [],
       "subCategories": [
         {
           "id": "bf7da828-7a86-4697-9f5a-27e7fc68f244",
@@ -23,7 +14,16 @@
           "icon": "LayoutList",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1769005117084",
+              "title": "菜鸟驿站首页",
+              "href": "https://cainiaoyizhan.cainiao.com/",
+              "description": "菜鸟驿站首页",
+              "icon": "https://img.alicdn.com/tfs/TB1uUY1eMoQMeJjy0FoXXcShVXa-64-64.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     }
