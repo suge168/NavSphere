@@ -6,7 +6,16 @@
       "icon": "Home",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1769005117084",
+          "title": "菜鸟驿站首页",
+          "href": "https://cainiaoyizhan.cainiao.com/",
+          "description": "菜鸟驿站首页",
+          "icon": "https://img.alicdn.com/tfs/TB1uUY1eMoQMeJjy0FoXXcShVXa-64-64.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
