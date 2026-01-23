@@ -14,14 +14,6 @@
           "description": "访问菜鸟驿站首页",
           "icon": "https://img.alicdn.com/tfs/TB1uUY1eMoQMeJjy0FoXXcShVXa-64-64.png",
           "enabled": true
-        },
-        {
-          "id": "site_1769152970451_21k6fh4rf",
-          "title": "淘宝电子面单",
-          "href": "https://waybill.wuliu.taobao.com/accountInfo.htm",
-          "description": "淘宝电子面单申请与查看余额",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=waybill.wuliu.taobao.com",
-          "enabled": true
         }
       ],
       "subCategories": [
@@ -46,6 +38,14 @@
               "href": "https://biaoju.cainiao.com/",
               "description": "访问菜鸟镖局",
               "icon": "https://img.alicdn.com/imgextra/i3/O1CN01K2v9tD1tiHMVtEPxo_!!6000000005935-2-tps-114-64.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1769152970451_21k6fh4rf",
+              "title": "淘宝电子面单",
+              "href": "https://waybill.wuliu.taobao.com/accountInfo.htm",
+              "description": "淘宝电子面单申请与查看余额",
+              "icon": "https://img.alicdn.com/imgextra/i4/O1CN01fiFpmf1QZ0jfWh9kO_!!6000000001989-2-tps-48-48.png",
               "enabled": true
             }
           ]
