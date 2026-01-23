@@ -14,6 +14,14 @@
           "description": "访问菜鸟驿站首页",
           "icon": "https://img.alicdn.com/tfs/TB1uUY1eMoQMeJjy0FoXXcShVXa-64-64.png",
           "enabled": true
+        },
+        {
+          "id": "site_1769152970451_21k6fh4rf",
+          "title": "淘宝电子面单",
+          "href": "https://waybill.wuliu.taobao.com/accountInfo.htm",
+          "description": "淘宝电子面单申请与查看余额",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=waybill.wuliu.taobao.com",
+          "enabled": true
         }
       ],
       "subCategories": [
