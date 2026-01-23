@@ -31,6 +31,14 @@
               "description": "菜鸟驿站首页",
               "icon": "https://img.alicdn.com/tfs/TB1uUY1eMoQMeJjy0FoXXcShVXa-64-64.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769152404370_56bovzx8i",
+              "title": "镖局",
+              "href": "https://biaoju.cainiao.com/",
+              "description": "访问菜鸟镖局",
+              "icon": "https://img.alicdn.com/imgextra/i3/O1CN01K2v9tD1tiHMVtEPxo_!!6000000005935-2-tps-114-64.png",
+              "enabled": true
             }
           ]
         }
